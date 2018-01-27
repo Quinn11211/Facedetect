@@ -122,5 +122,5 @@ public class MainActivity extends AppCompatActivity implements View. OnClickList
                     faceDetector.detectMultiScale(image,faceDetections);
                     faceDetector.detectMultiScale(image, faceDetections, 1.1, 3, 0, new Size(90, 90),new Size(400, 400));
 
-                     if(faceDetections.toArray().length >=1);
+                     if(faceDetections.toArray().length <=1);
                         return "Not a face"
