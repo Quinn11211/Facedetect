@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements View. OnClickList
 //       CascadeClassifier faceDetector = new CascadeClassifier("D:\\opencv\\sources\\data\\haarcascades\\haarcascade_frontalface_default.xml");
 
                     Mat image = new Mat();
-                    Utils. bitmapToMat();
+                    new Mat(); Bitmap bmp32 = bmp.copy(Bitmap.Config.ARGB_8888, true); Utils.bitmapToMat(bmp32, mat);
 
 
                     float size = Math.round(image.height() * 0.1f);
