@@ -1,4 +1,4 @@
-package com.example.qpm1.myapplication;
+package com.example.qpm1.face;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -12,29 +12,16 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
+
 import java.io.IOException;
-import java.util.Calendar;
+
+import org.opencv.core.CvType;
 import org.opencv.core.Mat;
-import org.opencv.core.Core;
-import org.opencv.android.Utils;
 import org.opencv.core.MatOfRect;
 import org.opencv.core.Rect;
-import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.support.v7.app.AppCompatActivity;
-import org.opencv.core.Point;
-import org.opencv.core.Rect;
-import org.opencv.core.Scalar;
 import org.opencv.core.Size;
-
-import java.io.IOException;
-
-import static com.example.qpm1.myapplication.R.id.image;
+import org.opencv.objdetect.Objdetect;
 
 public class MainActivity extends AppCompatActivity{
     ImageView imageView1, imageView2;
@@ -104,16 +91,14 @@ public class MainActivity extends AppCompatActivity{
                     long startTime = System.nanoTime();
 
                     CascadeClassifier faceDetector = new CascadeClassifier("D:\\opencv\\sources\\data\\haarcascades\\haarcascade_frontalface_alt.xml");
-
-                    Mat mat = new Mat();
-                    Bitmap bmp32 = bitmap.copy(Bitmap.Config.ARGB_8888, true);
-                    Utils.bitmapToMat(bmp32, mat);
+                    Mat image = new Mat(imageview.getHeight(),imageview.getWidth(), CvType.CV_8UC3);
 
 
                     Rect rectCrop = null;
                     MatOfRect faceDetections = new MatOfRect();
                     faceDetector.detectMultiScale(image, faceDetections);
-                    faceDetector.detectMultiScale(image, faceDetections, 1.1, 3, 0, new Size(90, 90), new Size(400, 400));
+                    faceDetector.detectMultiScale(image, faceDetections
+                    );
 
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -121,5 +106,3 @@ public class MainActivity extends AppCompatActivity{
                 }
             }
         }}}
-
-
