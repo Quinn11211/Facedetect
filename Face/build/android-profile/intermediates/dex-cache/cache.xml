@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\Desktop\Face\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a03e75821e1eb36ed2678058c1969ca115eb4958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\16af831f0d919408f7e3b8f9329b8befaa4442b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6f6a950e87342f695a1ddc58206ea9db6958ab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\af1a1bde0e1493b1229c03f7e960668e169a2cef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e1a2cfa8b85c6660f4c10b1132362ef87bdb6b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_44d36aec54a6907ffe50efa8ab0af87f02bbc6a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.3_bf79925a7934f2491524d8f7c02ec4b14c8df888\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\ec320468bcc49ab8e4f586426a3d1bdebd314284\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f90135f1f1f20af632e30ecc1bf0085429911dc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\3bc6d3f8ef892c48e57ad86b746218a5d2e7f533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7233386afec2b6bd51d051184546700ba7c11609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\cfcd7a9aa96a397d4587c80201514a822215b9d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ac9a46ee139eb73678e4b91f05ecb47f7c7a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\be345f921e6cb42f851504ad5f0989318a94c281\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccdd72288330fdc59d3b0e23a4a5032ff99b84b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-27.0.2_0a7386f819d524f757732695d6db7f0e19b71908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\e40871a8aab2395a60eee59ffc37cab3aadddf91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d4cd9c5f91db708a5f3466b28747bbbc345d64b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_23b953bfd8743f5cd7004db03b18adc3838b2b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\Desktop\Face\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="322de0e5ac66ccb42102eeb7ab1be3e485e492af">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f8a642ba0a201e44902df298cca5a629d4df0a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\ead03ec70887eeb5b7699b2b47aa673ba85980a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_655108ee51dcd788314865e9a350d1bcb3d5519a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qpm1\.android\build-cache\2683e3119c5d2fe3b0362989cf40ce99aa7a9282\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\qpm1\Desktop\Face\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fe73321519ef040f18364db97ed6ad6181aaf69\classes.dex" />
+    </item>
+
+</items>
