@@ -1,0 +1,62 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\qpm1\.android\build-cache\cfcd7a9aa96a397d4587c80201514a822215b9d1\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.qpm1.face.MainActivity
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\qpm1\.android\build-cache\ec320468bcc49ab8e4f586426a3d1bdebd314284\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\qpm1\.android\build-cache\16af831f0d919408f7e3b8f9329b8befaa4442b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\qpm1\.android\build-cache\3bc6d3f8ef892c48e57ad86b746218a5d2e7f533\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\qpm1\.android\build-cache\be345f921e6cb42f851504ad5f0989318a94c281\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\qpm1\.android\build-cache\af1a1bde0e1493b1229c03f7e960668e169a2cef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\qpm1\.android\build-cache\2683e3119c5d2fe3b0362989cf40ce99aa7a9282\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\qpm1\.android\build-cache\e40871a8aab2395a60eee59ffc37cab3aadddf91\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\qpm1\.android\build-cache\ead03ec70887eeb5b7699b2b47aa673ba85980a8\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\qpm1\.android\build-cache\cfcd7a9aa96a397d4587c80201514a822215b9d1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [Face:openCVLibrary340:unspecified] C:\Users\qpm1\Desktop\Face\openCVLibrary340\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qpm1\Desktop\Face\app\src\main\AndroidManifest.xml
